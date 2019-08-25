@@ -56,6 +56,8 @@ print('My name is \t {}'.format(name)) # My name is Ranjith
 print("My name is \t {}".format(name)) # My name is Ranjith
 print("My name is {}",format(name)) # My name is {} Ranjith
 
+print('Hello {name}, {greeting}'.format(greeting = 'Goodmorning', name = 'John'))
+
 tab = {'geeks': 4127, 'for': 4098, 'geek': 8637678} 
   
 # using format() in dictionary 
