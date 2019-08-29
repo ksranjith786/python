@@ -15,5 +15,11 @@ for c in range('a', 'z'):
     print c
 '''
 
+fib=[]
+for i in range(10):
+    fib.append(i)
+
+print (fib)
+
 import string
 print (string.ascii_letters)
