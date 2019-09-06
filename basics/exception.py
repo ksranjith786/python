@@ -1,3 +1,6 @@
+# https://www.geeksforgeeks.org/python-set-5-exception-handling/
+# https://www.geeksforgeeks.org/multiple-exception-handling-in-python/
+# https://www.geeksforgeeks.org/python-raising-an-exception-to-another-exception/
 num = 10,20,30
 print (num)
 print (num[0])

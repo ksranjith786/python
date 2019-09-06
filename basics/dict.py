@@ -33,3 +33,22 @@ print ("xyz" in d )
 
 for key, value in d.items(): 
     print(key, value)
+
+prices = {"beer": 2, "fish": 5, "apple": 1}
+float_prices = {key:float(value) for key, value in prices.items()}
+print(float_prices)
+
+'''
+$ python dict.py
+{'xyz': 123, 'abc': 345}
+dict_keys(['xyz', 'abc'])
+dict_values([123, 345])
+xyz 123
+abc 345
+0 xyz 123
+1 abc 345
+True
+False
+abc 345
+{'beer': 2.0, 'fish': 5.0, 'apple': 1.0}
+'''

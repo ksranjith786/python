@@ -1,4 +1,4 @@
-# https://www.geeksforgeeks.org/python-a-b-is-not-always-a-a-b/
+#   https://www.geeksforgeeks.org/python-a-b-is-not-always-a-a-b/
 
 '''
 nums = [int(x) for x in input("Enter a list of numbers : ").split()]

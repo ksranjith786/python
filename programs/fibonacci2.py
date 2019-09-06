@@ -1,4 +1,5 @@
 # Time complexity is O(1); Space Complexity is O(n)
+# Memorization Technique
 def fibonacci(n):
     """
     The fibonacci(n) is a function that returns the nth fibonacci number (assumes that series starts with 0; eg. 0,1,1,2,3, etc.)
