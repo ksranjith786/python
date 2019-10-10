@@ -12,6 +12,6 @@ def fibonacci(i):
         return fibonacci(i-1) + fibonacci(i-2)
 
 i = 1
-while i <= 50:
-    print(fibonacci(i))
+while i <= 500:
+    print(fibonacci(500))
     i += 1
