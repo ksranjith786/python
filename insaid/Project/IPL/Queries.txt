@@ -1,0 +1,93 @@
+
+1. Highest no.of matches in a Season
+2. Lowest no.of matches in a Season
+3. Matches abandoned
+	without bowling a ball
+	with only 1 innings (complete)
+	in 1st innings (partial)
+	in 2nd innings (partial)
+4. Total
+	Balls
+	Runs
+	Wickets
+	Extras
+
+5. Extra Over matches
+
+
+Team records | Batting records | Bowling records | Wicketkeeping records | Fielding records | Partnership records | Individual records (captains, players, umpires)
+
+
+6. Team records
+Series results
+List of match results (by season)
+Result summary
+Highest totals
+Lowest totals
+Highest match aggregates
+Lowest match aggregates
+Largest victories
+Smallest victories (including tied matches)
+Most extras in an innings
+
+7. Batting records
+Most runs
+High scores
+Highest averages
+Highest strike rates
+Most fifties (and over)
+Most ducks
+Most sixes
+Most sixes in an innings
+Most runs from fours and sixes in an innings
+Highest strike rates in an innings
+List of hundreds
+Most runs in a series
+
+8. Bowling records
+Most wickets
+Best bowling figures in an innings
+Best averages
+Best economy rates
+Best strike rates
+Most four-wickets-in-an-innings (and over)
+Most five-wickets-in-an-innings
+Best economy rates in an innings
+Best strike rates in an innings
+Most runs conceded in an innings
+List of four-wickets-in-an-innings (and over)
+List of five-wickets-in-an-innings
+Most wickets in a series
+
+9. Wicketkeeping records
+Most dismissals
+Most dismissals in an innings
+Most dismissals in a series
+
+10. Fielding records
+Most catches
+Most catches in an innings
+Most catches in a series
+Most fielded
+
+11. Partnership records
+Highest partnerships by wicket
+Highest partnerships by runs
+List of hundred partnerships
+
+12. Individual records (captains, players, umpires)
+Most matches
+Most matches as captain
+Most matches as an umpire
+
+
+
+How many matches we’ve got in the dataset?
+How many seasons we’ve got in the dataset?
+Which Team had won by maximum runs?
+Which Team had won by maximum wicket?
+Which Team had won by closest Margin (minimum runs)?
+Which Team had won by minimum wicket?
+Which Season had most number of matches?
+Which IPL Team is more successful?
+Has Toss-winning helped in winning matches?
