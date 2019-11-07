@@ -1,10 +1,32 @@
 
+Data Visualization
+
 https://datavizproject.com
 https://www.data-to-viz.com/
+https://datavizcatalogue.com/
 
+https://visme.co/blog/best-data-visualizations/
 
 
 https://www.fusioncharts.com/
+
+
+Data Sets
+https://towardsdatascience.com/top-10-great-sites-with-free-data-sets-581ac8f6334
+
+https://data.world/
+https://www.kaggle.com/
+https://www.data.gov/
+https://fivethirtyeight.com/
+https://www.kdnuggets.com/datasets/index.html
+https://github.com/awesomedata/awesome-public-datasets
+https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset
+https://ai.google/tools/datasets/
+https://github.com/topics/dataset
+https://github.com/pydata
+
+https://www.analyticsvidhya.com/blog/2016/11/25-websites-to-find-datasets-for-data-science-projects/
+
 
 
 
