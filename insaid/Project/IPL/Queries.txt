@@ -81,6 +81,9 @@ Most matches as captain
 Most matches as an umpire
 
 
+Teams scored maximum in Powerplay
+Teams scored minimum in Powerplay
+
 
 How many matches we’ve got in the dataset?
 How many seasons we’ve got in the dataset?
@@ -91,3 +94,62 @@ Which Team had won by minimum wicket?
 Which Season had most number of matches?
 Which IPL Team is more successful?
 Has Toss-winning helped in winning matches?
+
+
+
+https://www.kaggle.com/vamsikrishna/exploratory-data-analysis-of-ipl-data#Number-of-matches-played-in-different-cities
+Exploratory Data Analysis Of IPL Data
+Closeness Of The Matches When The Team Batting First Wins
+Number Of Matches Played In Different Cities
+Number Of Matches Played In Different Stadiums
+Is Winning The Toss Really An Advantage?
+Is Home Advantage A Real Thing In IPL?
+Number Of Matches Played By Each Team
+Number Of Matches Won By Each Teams
+Win Percentage Of Each Team In IPL
+Margin Of Victories In IPL
+Top Batsmen
+Best Seat In The House => Non-Striker's End!
+Top Bowlers
+Total Runs Scored In Each Delivery Of The Over
+Average Number Of Runs Scored In Each Delivery Of The Over
+Total Number Of Runs Scored In Each Over Of The Innings
+Average Number Of Runs Scored In Each Over Of The Innings
+Total Number Of Wickets In Each Over Of The Innings
+Batsmen With Top Strike Rate
+Comparing The All Time Top Run Getters In IPL
+Innings Progression
+
+
+https://medium.com/code-heroku/indian-premier-league-analysis-c939e755e45b
+Most dismissals by a Wicket Keeper
+Toss Call for a given Venue
+Number of wickets taken by a bowler
+Highest and lowest runs in IPL History
+Average runs in all IPL seasons
+
+
+https://www.kaggle.com/manishhh2108/ipl-dataset-analysis#Analysis-of-matches
+
+https://www.kaggle.com/josephgpinto/ipl-data-analysis
+
+
+https://www.kaggle.com/vamsikrishna/exploratory-data-analysis-of-ipl-data/notebook#Exploratory-data-analysis-of-IPL-data
+Margin of victories in IPL
+- By Bowling First
+- By Batting First
+
+
+My Thoughts
+-----------
+Your score is better than 99% of CRED users;
+Player X score better than Y% of other Players (Batsman or Bowler)
+Dream Team with IPL Players
+Most Successful Captain
+Win Percentage of Teams who won TOSS
+Win Percentage of Teams who won TOSS and choose BATTING first
+Win Percentage of Teams who won TOSS and choose BATTING first
+Win Percentage of Teams who lost TOSS
+Win Percentage of Teams who lost TOSS and choose BATTING first
+Win Percentage of Teams who lost TOSS and choose BOWLING first
+Team that played FINAL matches mostly as a Winner or Runner up
