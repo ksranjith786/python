@@ -153,3 +153,8 @@ Win Percentage of Teams who lost TOSS
 Win Percentage of Teams who lost TOSS and choose BATTING first
 Win Percentage of Teams who lost TOSS and choose BOWLING first
 Team that played FINAL matches mostly as a Winner or Runner up
+
+Bowling HatTricks
+Max. no. of wickets in an Over
+How many Sixes were hit in an Over
+How many Fours were hit in an Over
