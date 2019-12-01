@@ -7,7 +7,7 @@ A Program to predict the Stock Price using Linear Regression Machine Learning al
 ![x](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwilpPjp-5PmAhViyzgGHRvjCMkQjRx6BAgBEAQ&url=https%3A%2F%2Ftowardsdatascience.com%2Fstock-prediction-using-twitter-e432b35e14bd&psig=AOvVaw1pxt9Ual3rclh_yey1RSmt&ust=1575273112693704)
 
 # History
-[Wikipedia] https://en.wikipedia.org/wiki/Stock_market
+[Wikipedia](https://en.wikipedia.org/wiki/Stock_market)
 
 # Maintainer
 #### Ranjith K S
